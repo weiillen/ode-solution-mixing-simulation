@@ -51,8 +51,6 @@ The differential equation is solved numerically with `scipy.integrate.solve_ivp`
 .
 ├── README.md
 ├── requirements.txt
-├── ORIGINAL_FILE_MANIFEST.tsv
-├── PUBLICATION_NOTES.md
 ├── assignment/
 │   └── 2024 Fall ODE Bonus Project.pdf
 ├── notebook/
